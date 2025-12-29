@@ -1,0 +1,43 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f9f9f9;
+}
+
+.why-techtonic {
+  padding: 40px 20px;
+  background-color: white;
+}
+
+.why-techtonic header {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.why-techtonic h2 {
+  font-size: 2rem;
+  color: #333;
+}
+
+.features {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.features article {
+  background: #f0f0f0;
+  padding: 20px;
+  max-width: 250px;
+  border-radius: 8px;
+}
+
+.features h3 {
+  color: #222;
+}
+
+.features p {
+  font-size: 0.95rem;
+  color: #555;
+}
